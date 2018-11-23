@@ -26,6 +26,7 @@ namespace MetodoBurbuja
                 array[i] = int.Parse(Console.ReadLine());
             }
 
+            //prueba de cambio
             for(int x = 1; x < n; x++)
             {
                 for(int y = 0; y < n-1; y++)
